@@ -1,0 +1,21 @@
+sync:
+  images:
+    workspace-base-images:
+    - base
+    - c
+    - clojure
+    - full
+    - full-vnc
+    - go
+    - node
+    - node-lts
+    - python
+    - ruby-2
+    - ruby-3
+    - rust
+    - dotnet
+    - postgresql
+    - mysql
+    - mongodb
+    - java-11
+    - java-17
